@@ -1,0 +1,17 @@
+h6{color:mediumvioletred; font-family: fantasy}
+h1{color:mediumvioletred; font-family: fantasy}
+h4 {color:blue}
+
+body {
+    background-color: lavender
+}
+
+a {
+    text-decoration: none; color: forestgreen
+}
+
+img {
+float:right
+}
+
+div h1 {color: midnightblue}
